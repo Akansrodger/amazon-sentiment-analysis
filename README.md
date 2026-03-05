@@ -72,6 +72,7 @@ This converts text into numerical vectors for machine learning.
 
 **Models Compared**
 
+
 Logistic Regression (primary model)
 
 Multinomial Naive Bayes
@@ -80,9 +81,12 @@ Linear Support Vector Machine (SVM)
 
 **📈 Results**
 
-Accuracy: ~89%
+<img width="467" height="152" alt="Classification eport" src="https://github.com/user-attachments/assets/8a8a7479-2105-42fb-b8eb-49ed5dcce743" />
 
-Precision: 0.89
+
+Accuracy: ~88%
+
+Precision: 0.88
 
 Recall: 0.89
 
